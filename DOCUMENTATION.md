@@ -54,4 +54,6 @@
 - `routes/web.php`: সকল ইউআরএল রুট।
 
 ---
+
+**ADD api key in env file **
 *Documentation Created on: 2026-05-06*
