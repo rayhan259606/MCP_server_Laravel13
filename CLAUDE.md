@@ -92,7 +92,7 @@ php artisan serve
 
 ✅ — Browser এ Open করো
 
-http://127.0.0
+[http://127.0.0](http://127.0.0.1:8000/_laravel-brain)
 
 
 
