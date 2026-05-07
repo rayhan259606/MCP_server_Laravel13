@@ -75,4 +75,25 @@ This file provides guidance to Claude Code when working with the **blade-voice-m
 php artisan brain:scan               # Re-analyse project architecture
 php artisan brain:generate-rules     # Regenerate all AI context files
 php artisan brain:export-context     # Export focused AI context for a route or node
+
+ার্মিনালে এটা run করো:
+
+✅—— composer require --dev   laramint/laravel-brain
+
+✅——যদি dependency issue আসে তাহলে:
+
+composer require --dev laramint/laravel-brain -W
+
+php artisan brain:scan
+
+✅ — Laravel Server Run
+
+php artisan serve
+
+✅ — Browser এ Open করো
+
+http://127.0.0
+
+
+
 ```
